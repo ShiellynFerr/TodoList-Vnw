@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BoxFlex, Button, Container, Input, Item } from "../styles/GlobalSyles";
+import { BoxFlex, Button, Container, Input, Item } from "../styles/syles";
 
 export default class Main extends Component {
   state = {
